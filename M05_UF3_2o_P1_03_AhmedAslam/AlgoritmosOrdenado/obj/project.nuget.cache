@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "h1bi4ojgJUTIAXa3sV6XdEczhRPz752UFveiuNCCTjGSFgbW3cHtp4XfCGUlpWi0GTEyTOS2PrfEumD2VO0MAg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ahmed\\OneDrive\\Desktop\\M05_UF2_P2_Segundo-master\\AlgoritmosOrdenado\\AlgoritmosOrdenado.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ahmed\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.24\\microsoft.netcore.app.host.win-x64.3.1.24.nupkg.sha512"
+  ],
+  "logs": []
+}

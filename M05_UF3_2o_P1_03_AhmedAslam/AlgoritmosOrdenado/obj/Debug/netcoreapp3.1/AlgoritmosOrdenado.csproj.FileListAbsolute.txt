@@ -1,0 +1,14 @@
+C:\Users\ahmed\OneDrive\Desktop\M05_UF2_P2_Segundo-master\AlgoritmosOrdenado\bin\Debug\netcoreapp3.1\AlgoritmosOrdenado.exe
+C:\Users\ahmed\OneDrive\Desktop\M05_UF2_P2_Segundo-master\AlgoritmosOrdenado\bin\Debug\netcoreapp3.1\AlgoritmosOrdenado.deps.json
+C:\Users\ahmed\OneDrive\Desktop\M05_UF2_P2_Segundo-master\AlgoritmosOrdenado\bin\Debug\netcoreapp3.1\AlgoritmosOrdenado.runtimeconfig.json
+C:\Users\ahmed\OneDrive\Desktop\M05_UF2_P2_Segundo-master\AlgoritmosOrdenado\bin\Debug\netcoreapp3.1\AlgoritmosOrdenado.runtimeconfig.dev.json
+C:\Users\ahmed\OneDrive\Desktop\M05_UF2_P2_Segundo-master\AlgoritmosOrdenado\bin\Debug\netcoreapp3.1\AlgoritmosOrdenado.dll
+C:\Users\ahmed\OneDrive\Desktop\M05_UF2_P2_Segundo-master\AlgoritmosOrdenado\bin\Debug\netcoreapp3.1\AlgoritmosOrdenado.pdb
+C:\Users\ahmed\OneDrive\Desktop\M05_UF2_P2_Segundo-master\AlgoritmosOrdenado\obj\Debug\netcoreapp3.1\AlgoritmosOrdenado.csproj.AssemblyReference.cache
+C:\Users\ahmed\OneDrive\Desktop\M05_UF2_P2_Segundo-master\AlgoritmosOrdenado\obj\Debug\netcoreapp3.1\AlgoritmosOrdenado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmed\OneDrive\Desktop\M05_UF2_P2_Segundo-master\AlgoritmosOrdenado\obj\Debug\netcoreapp3.1\AlgoritmosOrdenado.AssemblyInfoInputs.cache
+C:\Users\ahmed\OneDrive\Desktop\M05_UF2_P2_Segundo-master\AlgoritmosOrdenado\obj\Debug\netcoreapp3.1\AlgoritmosOrdenado.AssemblyInfo.cs
+C:\Users\ahmed\OneDrive\Desktop\M05_UF2_P2_Segundo-master\AlgoritmosOrdenado\obj\Debug\netcoreapp3.1\AlgoritmosOrdenado.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\OneDrive\Desktop\M05_UF2_P2_Segundo-master\AlgoritmosOrdenado\obj\Debug\netcoreapp3.1\AlgoritmosOrdenado.dll
+C:\Users\ahmed\OneDrive\Desktop\M05_UF2_P2_Segundo-master\AlgoritmosOrdenado\obj\Debug\netcoreapp3.1\AlgoritmosOrdenado.pdb
+C:\Users\ahmed\OneDrive\Desktop\M05_UF2_P2_Segundo-master\AlgoritmosOrdenado\obj\Debug\netcoreapp3.1\AlgoritmosOrdenado.genruntimeconfig.cache
